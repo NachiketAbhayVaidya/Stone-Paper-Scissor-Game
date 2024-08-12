@@ -60,11 +60,11 @@ img:hover{
     font-size: 1.5rem;
     font-weight: 600;
     margin-top: 20px;
-    height: 3.3rem;
-    /* width: 10rem; */
+    height: 3.5rem;
+    width: 25rem;
     position: relative;
-    /* margin-left: 668px;
-    border-right: 668px; */
+    margin-left: 525px;
+    /* border-right: 668px; */
     border-radius: 15px;
 
 }
